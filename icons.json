@@ -32,7 +32,7 @@
       "iconPath": "icons/Entangle.png"
     },
     "_ipynb": {
-      "iconPath": "icons/Pie_recipe_book.png"
+      "iconPath": "icons/Mages_book.png"
     },
     "_cpp": {
       "iconPath": "icons/Dragon_dagger_pp.png"
@@ -54,6 +54,9 @@
     },
     "_jar": {
       "iconPath": "/icons/Imp-in-a-box.png"
+    },
+    "_exe": {
+      "iconPath": "/icons/Magic_box.png"
     },
     "_ruby": {
       "iconPath": "icons/Ruby.png"
@@ -81,7 +84,8 @@
     "h": "_h",
     "java": "_java",
     "class": "_class",
-    "jar": "_jar",
+    "jar": "_exe",
+    "exe": "_exe",
     "py": "_py",
     "ipynb": "_ipynb",
     "rb": "_ruby",
