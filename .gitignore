@@ -1,2 +1,10 @@
 extension-checker
 item_icons
+.devcontainer
+.vscode
+node_modules
+test
+.eslintrc.json
+.vscodeignore
+jsconfig.json
+package-lock.json

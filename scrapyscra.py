@@ -36,7 +36,7 @@ for src, name in zip(img_srcs, img_names):
         try:
             url = URL_BASE + src
             data = requests.get(url).content
-            f = open(f'./item_icons/{name}.png','wb')
+            f = open(f'./item_icons/{name}','wb')
             f.write(data)
             counter += 1
             print(f"Writing... {counter}")
