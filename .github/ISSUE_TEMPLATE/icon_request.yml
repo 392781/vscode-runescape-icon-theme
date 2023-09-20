@@ -1,0 +1,27 @@
+name: Icon Request
+description: Request an Icon
+title: "[ICON]: "
+labels: ["enhancement"]
+assignees:
+  - 392781
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Icons will be considered based on in-game icons found on the [Old School RuneScape Wiki](https://oldschool.runescape.wiki/)!**
+  - type: input
+    id: file-type
+    attributes:
+      label: File Type
+      description: Please enter the file extension(s) or file name(s) you are requesting.  This can include general extensions (.py), special files (.gitignore), or special file names (README.md).
+      placeholder: examples - .py, .gitignore, Dockerfile, README.md
+    validations:
+      required: true
+  - type: textarea
+    id: proposals
+    attributes:
+      label: (Optional) Propose an Icon
+      description: Optionally provide links from the OSRS Wiki for the icons that would fit the theme of the request.
+      placeholder: example - https://oldschool.runescape.wiki/w/Entangle
+    validations:
+      required: false
