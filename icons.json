@@ -1,106 +1,100 @@
 {
+  "hidesExplorerArrows": "true",
   "iconDefinitions": {
     "_file": {
-      "iconPath": "icons/furniture.png"
+      "iconPath": "icons/Rune_essence.png"
     },
     "_folder": {
-      "iconPath": "icons/message bottle.png"
+      "iconPath": "icons/Inventory.png"
     },
-    "_css": {
-      "iconPath": "icons/wand.png"
+    "_folder_open": {
+      "iconPath": "icons/Inventory_open.png"
     },
-    "_html": {
-      "iconPath": "icons/fossil.png"
+    "_text": {
+      "iconPath": "icons/Ancient_page.png"
     },
-    "_javascript": {
-      "iconPath": "icons/star fragment large.png"
-    },
-    "_typescript": {
-      "iconPath": "icons/star fragment.png"
+    "_md": {
+      "iconPath": "icons/Clue scroll (master).png"
     },
     "_json": {
       "iconPath": "icons/lost item journal.png"
     },
-    "_text": {
-      "iconPath": "icons/lost item book.png"
+    "_ico": {
+      "iconPath": "icons/Tile_Rogues_Den.png"
     },
     "_image": {
-      "iconPath": "icons/camera.png"
+      "iconPath": "icons/Miscellanians.png"
     },
-    "_log": {
-      "iconPath": "icons/wood.png"
-    },
-    "_git": {
-      "iconPath": "icons/Isabelle.png"
-    },
-    "_ignore": {
-      "iconPath": "icons/old tire.png"
-    },
-    "_java": {
-      "iconPath": "icons/coffee.png"
-    },
-    "_perl": {
-      "iconPath": "icons/pearl.png"
-    },
-    "_lock": {
-      "iconPath": "icons/red present.png"
-    },
-    "_env": {
-      "iconPath": "icons/lily of the valley.png"
+    "_pdf":{
+      "iconPath": "icons/Giant_dwarf.png"
     },
     "_py": {
-      "iconPath": "icons/ribbon eel.png"
+      "iconPath": "icons/Entangle.png"
     },
-    "_tf": {
-      "iconPath": "icons/construction helmet.png"
+    "_ipynb": {
+      "iconPath": "icons/Pie_recipe_book.png"
+    },
+    "_cpp": {
+      "iconPath": "icons/Dragon_dagger_pp.png"
+    },
+    "_hpp": {
+      "iconPath": "icons/Weapon_poison_pp.png"
+    },
+    "_c": {
+      "iconPath": "icons/Rune_dagger_p.png"
+    },
+    "_h": {
+      "iconPath": "icons/Weapon_poison.png"
+    },
+    "_java": {
+      "iconPath": "icons/Ruined_herb_tea.png"
+    },
+    "_class": {
+      "iconPath": "icons/Clockwork.png"
+    },
+    "_jar": {
+      "iconPath": "/icons/Imp-in-a-box.png"
     },
     "_yml": {
-      "iconPath": "icons/diy recipe.png"
+      "iconPath": "icons/Yanille_teleport.png"
+    },
+    "_docker": {
+      "iconPath": "icons/Fishing_icon.png"
+    },
+    "_ignore": {
+      "iconPath": "icons/Anti-dragon_shield.png"
     }
   },
   "file": "_file",
   "folder": "_folder",
+  "folderExpanded": "_folder_open",
   "fileExtensions": {
+    "cpp": "_cpp",
+    "hpp": "_hpp",
+    "c": "_c",
+    "h": "_h",
     "java": "_java",
-    "js": "_javascript",
-    "jsx": "_javascript",
-    "ts": "_typescript",
-    "tsx": "_typescript",
-    "scss": "_css",
-    "md": "_text",
+    "class": "_class",
+    "jar": "_jar",
+    "py": "_py",
+    "ipynb": "_ipynb",
+    "md": "_md",
     "txt": "_text",
-    "git": "_git",
-    "pl": "_perl",
     "jpeg": "_image",
     "jpg": "_image",
     "gif": "_image",
     "png": "_image",
     "bmp": "_image",
-    "ico": "_image",
+    "ico": "_ico",
     "svg": "_image",
-    "pdf": "_image",
-    "env": "_env",
-    "py": "_py",
-    "tf": "_tf",
+    "pdf": "_pdf",
     "yml": "_yml"
   },
   "fileNames": {
+    "Dockerfile": "_docker",
     ".vscodeignore": "_ignore",
     ".gitignore": "_ignore",
-    ".gitattributes": "_git",
-    "changelog": "_log",
-    "changelog.md": "_log",
-    "changelog.json": "_log",
-    "package-lock.json": "_lock",
-    "yarn.lock": "_lock",
-    "env.example": "_env",
-    "env.local": "_env"
+    ".gitattributes": "_ignore"
   },
-  "languageIds": {
-    "javascript": "_js",
-    "css": "_css",
-    "html": "_html",
-    "json": "_json",
-    "git": "_git"
-  }
+  "languageIds": {}
 }
