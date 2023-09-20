@@ -55,6 +55,12 @@
     "_jar": {
       "iconPath": "/icons/Imp-in-a-box.png"
     },
+    "_ruby": {
+      "iconPath": "icons/Ruby.png"
+    },
+    "_gemfile": {
+      "iconPath": "icons/Ruby_bolt_tips_5.png"
+    },
     "_yml": {
       "iconPath": "icons/Yanille_teleport.png"
     },
@@ -78,6 +84,7 @@
     "jar": "_jar",
     "py": "_py",
     "ipynb": "_ipynb",
+    "rb": "_ruby",
     "md": "_md",
     "txt": "_text",
     "jpeg": "_image",
@@ -92,6 +99,7 @@
   },
   "fileNames": {
     "Dockerfile": "_docker",
+    "Gemfile": "_gemfile",
     ".vscodeignore": "_ignore",
     ".gitignore": "_ignore",
     ".gitattributes": "_ignore"
