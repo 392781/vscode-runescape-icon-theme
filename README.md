@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/osrs-logo.png" width="200">
+  <img src="assets/osrs-logo.png" width="300">
 </p>
 <p align="center">
-  <img src="assets/title.png" width="350">
+  <img src="assets/title.png" width="500">
 </p>
 
 (Old School) RuneScape themed file icon pack for VSCode!  The theme supports a dozen language and various toolset files/extensions:
