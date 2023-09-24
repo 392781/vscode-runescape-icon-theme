@@ -1,9 +1,14 @@
+.devcontainer/**
+.github/**
 .vscode/**
 .vscode-test/**
 test/**
+node_modules/
 .gitignore
 .yarnrc
 vsc-extension-quickstart.md
 **/jsconfig.json
 **/*.map
 **/.eslintrc.json
+Dockerfile
+package-lock.json
