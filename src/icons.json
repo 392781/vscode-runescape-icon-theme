@@ -33,6 +33,15 @@
     "_ipynb": {
       "iconPath": "../icons/Mages_book.webp"
     },
+    "_environment": {
+      "iconPath": "../icons/Woodcutting_icon.webp"
+    },
+    "_requirements": {
+      "iconPath": "../icons/Smithing_icon.webp"
+    },
+    "_pyproject": {
+      "iconPath": "../icons/Settings.webp"
+    },
     "_asm": {
       "iconPath": "../icons/Spade.webp"
     },
@@ -212,6 +221,10 @@
     "composer.json": "_composer_json",
     "pom.xml": "_pom",
     "CMakeLists.txt": "_cmake",
+    "environment.yml": "_environment",
+    "env.yml": "_environment",
+    "requirements.txt": "_requirements",
+    "pyproject.toml": "_pyproject",
     ".htaccess": "_htaccess",
     ".vscodeignore": "_ignore",
     ".gitignore": "_ignore",
