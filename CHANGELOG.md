@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Continuously adding new icons!
+
+## [0.10.0] - 2023-09-24
+
+Added icons for Python development:
+- requirements.txt
+- environment.yml, env.yml
+- pyproject.toml
+
 ## [0.9.1] - 2023-09-23
 
 Updated `.vscodeignore` to exclude unnecessary files from releases thus decreasing the extension size from ~11MB to ~400KB.
