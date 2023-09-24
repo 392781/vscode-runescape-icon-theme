@@ -1,0 +1,222 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "../icons/Rune_essence.webp"
+    },
+    "_folder": {
+      "iconPath": "../icons/Inventory.webp"
+    },
+    "_folder_open": {
+      "iconPath": "../icons/Inventory_open.webp"
+    },
+    "_text": {
+      "iconPath": "../icons/Ancient_page.webp"
+    },
+    "_md": {
+      "iconPath": "../icons/Clue_scroll_master.webp"
+    },
+    "_ico": {
+      "iconPath": "../icons/Tile_Rogues_Den.webp"
+    },
+    "_image": {
+      "iconPath": "../icons/Miscellanians.webp"
+    },
+    "_pdf":{
+      "iconPath": "../icons/Giant_dwarf.webp"
+    },
+    "_py": {
+      "iconPath": "../icons/Entangle.webp"
+    },
+    "_pyc": {
+      "iconPath": "../icons/Snare.webp"
+    },
+    "_ipynb": {
+      "iconPath": "../icons/Mages_book.webp"
+    },
+    "_asm": {
+      "iconPath": "../icons/Spade.webp"
+    },
+    "_cpp": {
+      "iconPath": "../icons/Dragon_dagger_pp.webp"
+    },
+    "_hpp": {
+      "iconPath": "../icons/Weapon_poison_pp.webp"
+    },
+    "_c": {
+      "iconPath": "../icons/Rune_dagger_p.webp"
+    },
+    "_h": {
+      "iconPath": "../icons/Weapon_poison.webp"
+    },
+    "_cmake": {
+      "iconPath": "../icons/Dragon_med_helm.webp"
+    },
+    "_cs": {
+      "iconPath": "../icons/Music.webp"
+    },
+    "_rs": {
+      "iconPath": "../icons/Rusty_key.webp"
+    },
+    "_java": {
+      "iconPath": "../icons/Ruined_herb_tea.webp"
+    },
+    "_class": {
+      "iconPath": "../icons/Clockwork.webp"
+    },
+    "_jar": {
+      "iconPath": "../icons/Imp-in-a-box.webp"
+    },
+    "_lua": {
+      "iconPath": "../icons/Moonclan_Teleport.webp"
+    },
+    "_jl": {
+      "iconPath": "../icons/Redemption.webp"
+    },
+    "_dart": {
+      "iconPath": "../icons/Rune_dart.webp"
+    },
+    "_ex": {
+      "iconPath": "../icons/Super_antifire_mix.webp"
+    },
+    "_exs": {
+      "iconPath": "../icons/Ancient_mix.webp"
+    },
+    "_exe": {
+      "iconPath": "../icons/Magic_box.webp"
+    },
+    "_pom": {
+      "iconPath": "../icons/Lamp.webp"
+    },
+    "_toml": {
+      "iconPath": "../icons/Khazard_teleport_(tablet).webp"
+    },
+    "_yml": {
+      "iconPath": "../icons/Yanille_teleport.webp"
+    },
+    "_docker": {
+      "iconPath": "../icons/Shark.webp"
+    },
+    "_ignore": {
+      "iconPath": "../icons/Anti-dragon_shield.webp"
+    },
+    "_js": {
+      "iconPath": "../icons/Berserker_ring.webp"
+    },
+    "_jsx": {
+      "iconPath": "../icons/Seers_ring.webp"
+    },
+    "_ts": {
+      "iconPath": "../icons/Warrior_ring.webp"
+    },
+    "_tsx": {
+      "iconPath": "../icons/Archers_ring.webp"
+    },
+    "_css": {
+      "iconPath": "../icons/Wizards_mind_bomb.webp"
+    },
+    "_html": {
+      "iconPath": "../icons/Magic_logs.webp"
+    },
+    "_scss": {
+      "iconPath": "../icons/Blurberry_special.webp"
+    },
+    "_sass": {
+      "iconPath": "../icons/Short_green_guy.webp"
+    },
+    "_ruby": {
+      "iconPath": "../icons/Ruby.webp"
+    },
+    "_php": {
+      "iconPath": "../icons/High_Level_Alchemy.webp"
+    },
+    "_json": {
+      "iconPath": "../icons/Unstrung_symbol.webp"
+    },
+    "_xml": {
+      "iconPath": "../icons/Unstrung_emblem.webp"
+    },
+    "_gemfile": {
+      "iconPath": "../icons/Ruby_bolt_tips_5.webp"
+    },
+    "_package_json": {
+      "iconPath": "../icons/Unholy_book_page_set.webp"
+    },
+    "_composer_json": {
+      "iconPath": "../icons/Gilded_armour_set.webp"
+    },
+    "_htaccess": {
+      "iconPath": "../icons/Arceuus_Home_Teleport.webp"
+    },
+    "_sql": {
+      "iconPath": "../icons/Mystery_box.webp"
+    },
+    "_sh": {
+      "iconPath": "../icons/Magic_icon.webp"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "asm": "_asm",
+    "cpp": "_cpp",
+    "hpp": "_hpp",
+    "c": "_c",
+    "h": "_h",
+    "cs": "_cs",
+    "csx": "_cs",
+    "rs": "_rs",
+    "java": "_java",
+    "class": "_class",
+    "jar": "_jar",
+    "lua": "_lua",
+    "jl": "_jl",
+    "dart": "_dart",
+    "ex": "_ex",
+    "exs": "_exs",
+    "py": "_py",
+    "pyc": "_pyc",
+    "ipynb": "_ipynb",
+    "exe": "_exe",
+    "md": "_md",
+    "txt": "_text",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_ico",
+    "svg": "_image",
+    "pdf": "_pdf",
+    "toml": "_toml",
+    "yml": "_yml",
+    "js": "_js",
+    "jsx": "_jsx",
+    "ts": "_ts",
+    "tsx": "_tsx",
+    "html": "_html",
+    "css": "_css",
+    "scss": "_scss",
+    "sass": "_sass",
+    "rb": "_ruby",
+    "php": "_php",
+    "json": "_json",
+    "xml": "_xml",
+    "sql": "_sql",
+    "sh": "_sh"
+  },
+  "fileNames": {
+    "Dockerfile": "_docker",
+    "Gemfile": "_gemfile",
+    "package.json": "_package_json",
+    "composer.json": "_composer_json",
+    "pom.xml": "_pom",
+    "CMakeLists.txt": "_cmake",
+    ".htaccess": "_htaccess",
+    ".vscodeignore": "_ignore",
+    ".gitignore": "_ignore",
+    ".gitattributes": "_ignore"
+  },
+  "languageIds": {},
+  "hidesExplorerArrows": "true"
+}
