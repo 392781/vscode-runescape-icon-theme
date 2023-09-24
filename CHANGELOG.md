@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [0.11.0] - 2023-09-24
+
+Updated icon:
+- Open folder now contains some gold inside for contrast
+
 ## [0.10.2] - 2023-09-24
 
 Small fix to exclude all `**/*.xcf` GIMP editor files from releases (previous versions accidentally included `inventory_open.xcf`). Visual fixes to `README` and `CHANGELOG`.
