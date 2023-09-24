@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! [Request an icon today!](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose)
 
+## [0.10.1] - 2023-09-25
+
+Metaupdate to `CHANGELOG.md` format.
+
 ## [0.10.0] - 2023-09-24
 
 Added icons for Python development:
@@ -22,4 +26,4 @@ Updated `.vscodeignore` to exclude unnecessary files from releases thus decreasi
 
 ## [0.9.0] - 2023-09-23
 
-- Initial release
+Initial release
