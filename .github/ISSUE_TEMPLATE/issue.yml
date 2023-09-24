@@ -1,6 +1,6 @@
 name: Submit an Issue
 description: Submit an Issue
-title: ""
+title: " "
 body:
   - type: markdown
     attributes:
