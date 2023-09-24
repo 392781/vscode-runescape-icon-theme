@@ -1,0 +1,15 @@
+name: Submit an Issue
+description: Submit an Issue
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to describe any issues you run into with the extension.
+  - type: input
+    id: issue
+    attributes:
+      label: What is your issue?
+      placeholder: Describe the problem you're running into here.
+    validations:
+      required: true

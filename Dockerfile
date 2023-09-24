@@ -8,5 +8,5 @@ COPY --from=node /usr/local/bin /usr/local/bin
 
 RUN node -v
 RUN apk add git openssh
-# RUN chown -R 1000:0 "/root/.npm"
+RUN chown -R 1000:0 "/root/.npm" || true
 RUN npm install -g yo generator-code --force

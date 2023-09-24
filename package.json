@@ -1,26 +1,45 @@
 {
   "name": "runescape-icon-theme",
   "displayName": "RuneScape Icon Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Old School RuneScape File Icon Theme for VS Code!",
+  "version": "0.9.0",
+  "publisher": "392781",
+  "author": {
+    "name": "Ronald Lencevičius",
+    "url": "https://ronaldas.dev"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/392781/vscode-runescape-icon-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/392781/vscode-runescape-icon-theme/issues",
+    "email": "rs_vscode_icon@ronaldas.dev"
+  },
+  "sponsor": {
+    "url": "https://ko-fi.com/ronaldas"
+  },
   "engines": {
-    "vscode": "^1.65.0"
+    "vscode": "^1.41.0"
   },
   "categories": [
-    "Other"
+    "Themes"
+  ],
+  "keywords": [
+    "runescape",
+    "osrs",
+    "icon-theme",
+    "icon",
+    "customization"
   ],
   "contributes": {
     "iconThemes": [
       {
         "id": "runescape-icon-theme",
         "label": "RuneScape Icon Theme",
-        "path": "icons.json"
+        "path": "./src/icons.json"
       }
     ]
   },
-  "icon": "assets/icon.png",
-  "galleryBanner": {
-    "color": "#C80000",
-    "theme": "dark"
-  }
+  "icon": "assets/icon.png"
 }
