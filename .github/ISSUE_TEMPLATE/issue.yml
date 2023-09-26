@@ -1,5 +1,5 @@
-name: Submit an Issue
-description: Submit an Issue
+name: Submit an Issue 🐛
+description: ...for bugs, installation problems, performance enhancements, etc.
 title: "[HELP]: "
 body:
   - type: markdown
