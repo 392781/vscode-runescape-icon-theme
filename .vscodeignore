@@ -11,6 +11,7 @@ vsc-extension-quickstart.md
 **/*.map
 **/.eslintrc.json
 **/*.xcf
+**/*.otf
 DEVELOPMENT.md
 Dockerfile
 package-lock.json
