@@ -197,6 +197,7 @@
     "gif": "_image",
     "png": "_image",
     "bmp": "_image",
+    "webp": "_image",
     "ico": "_ico",
     "svg": "_image",
     "pdf": "_pdf",

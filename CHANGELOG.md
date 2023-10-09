@@ -9,9 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [0.12.1] - 2023-10-08
+
+* Added attribution for Terraform icon additions
+* Added development test files
+* Added `.webp` icon as part of standard set of image icons
+
 ## [0.12.0] - 2023-10-08
 
-Added new icon for Terraform:
+ Added new icon for Terraform (Thank you [@jcanabarro](https://github.com/jcanabarro)!):
 - `.tf` files
 - `.terraform.lock.hcl`
 
