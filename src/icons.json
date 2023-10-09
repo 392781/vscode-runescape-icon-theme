@@ -21,7 +21,7 @@
     "_image": {
       "iconPath": "../icons/Miscellanians.webp"
     },
-    "_pdf":{
+    "_pdf": {
       "iconPath": "../icons/Giant_dwarf.webp"
     },
     "_py": {
@@ -161,6 +161,9 @@
     },
     "_sh": {
       "iconPath": "../icons/Magic_icon.webp"
+    },
+    "_tf": {
+      "iconPath": "../icons/Geomancy.webp"
     }
   },
   "file": "_file",
@@ -212,7 +215,8 @@
     "json": "_json",
     "xml": "_xml",
     "sql": "_sql",
-    "sh": "_sh"
+    "sh": "_sh",
+    "tf": "_tf"
   },
   "fileNames": {
     "Dockerfile": "_docker",
@@ -228,7 +232,8 @@
     ".htaccess": "_htaccess",
     ".vscodeignore": "_ignore",
     ".gitignore": "_ignore",
-    ".gitattributes": "_ignore"
+    ".gitattributes": "_ignore",
+    ".terraform.lock.hcl": "_tf"
   },
   "languageIds": {},
   "hidesExplorerArrows": "true"
