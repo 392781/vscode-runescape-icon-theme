@@ -203,6 +203,7 @@
     "pdf": "_pdf",
     "toml": "_toml",
     "yml": "_yml",
+    "yaml": "_yml",
     "js": "_js",
     "jsx": "_jsx",
     "ts": "_ts",
@@ -217,10 +218,14 @@
     "xml": "_xml",
     "sql": "_sql",
     "sh": "_sh",
-    "tf": "_tf"
+    "tf": "_tf",
+    "tfstate": "_tf"
   },
   "fileNames": {
     "Dockerfile": "_docker",
+    ".dockerignore": "_docker",
+    "docker-compose.yaml": "_docker",
+    "docker-compose.yml": "_docker",
     "Gemfile": "_gemfile",
     "package.json": "_package_json",
     "composer.json": "_composer_json",
