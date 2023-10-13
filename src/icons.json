@@ -105,6 +105,9 @@
     "_docker": {
       "iconPath": "../icons/Shark.webp"
     },
+    "_dockerignore": {
+      "iconPath": "../icons/Raw_shark.webp"
+    },
     "_ignore": {
       "iconPath": "../icons/Anti-dragon_shield.webp"
     },
@@ -223,7 +226,6 @@
   },
   "fileNames": {
     "Dockerfile": "_docker",
-    ".dockerignore": "_docker",
     "docker-compose.yaml": "_docker",
     "docker-compose.yml": "_docker",
     "Gemfile": "_gemfile",
@@ -235,6 +237,7 @@
     "env.yml": "_environment",
     "requirements.txt": "_requirements",
     "pyproject.toml": "_pyproject",
+    ".dockerignore": "_dockerignore",
     ".htaccess": "_htaccess",
     ".vscodeignore": "_ignore",
     ".gitignore": "_ignore",
