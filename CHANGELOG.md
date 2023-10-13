@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [0.13.0] - 2023-10-12
+
+Additional changes for icons ([@jcanabarro](https://github.com/jcanabarro)):
+- Added `.yaml`
+- Added `docker-compose.yml`
+- Changed icon for `.dockerignore` 
+
 ## [0.12.1] - 2023-10-08
 
 * Added attribution for Terraform icon additions
@@ -17,7 +24,7 @@ Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://gi
 
 ## [0.12.0] - 2023-10-08
 
- Added new icon for Terraform (Thank you [@jcanabarro](https://github.com/jcanabarro)!):
+Added new icon for Terraform (Thank you [@jcanabarro](https://github.com/jcanabarro)!):
 - `.tf` files
 - `.terraform.lock.hcl`
 
