@@ -135,6 +135,15 @@
     "_sass": {
       "iconPath": "../icons/Short_green_guy.webp"
     },
+    "_R": {
+      "iconPath": "../icons/Cabbage.webp"
+    },
+    "_rmd": {
+      "iconPath": "../icons/Cabbage_round_shield.webp"
+    },
+    "_qmd": {
+      "iconPath": "../icons/Teleport_to_Target.webp"
+    },
     "_ruby": {
       "iconPath": "../icons/Ruby.webp"
     },
