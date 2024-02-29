@@ -156,6 +156,15 @@
     "_xml": {
       "iconPath": "../icons/Unstrung_emblem.webp"
     },
+    "_xls": {
+      "iconPath": "../icons/Ancient_page_1.webp"
+    },
+    "_xlsx": {
+      "iconPath": "../icons/Book_of_darkness.webp"
+    },
+    "_csv": {
+      "iconPath": "../icons/Book_of_balance.webp"
+    },
     "_gemfile": {
       "iconPath": "../icons/Ruby_bolt_tips_5.webp"
     },
@@ -237,6 +246,9 @@
     "php"     : "_php",
     "json"    : "_json",
     "xml"     : "_xml",
+    "xls"     : "_xls",
+    "xlsx"    : "_xlsx",
+    "csv"     : "_csv",
     "sql"     : "_sql",
     "svelte"  : "_svelte",
     "sh"      : "_sh",
