@@ -2,7 +2,6 @@
 
 ## Making changes to icons
 
-1. Build the development container.
 1. Make changes to `src/icons.json`
     - `iconDefinitions` link an icon definition to an icon location
     - `fileExtensions` link an ending extension to an icon definition
@@ -14,6 +13,7 @@
 
 1. Begin by modifying `CHANGELOG.md`.  Add a new entry with a major/minor/patch update.  Describe the changes, save the file.
 1. Stage and commit all the changes. *DO NOT PUSH YET*.
+1. Build the development container.
 1. Run `vsce ls` to view the items that will be published.  The only items that should be contained are:
     - `assets/**`
     - `CHANGELOG.md`
