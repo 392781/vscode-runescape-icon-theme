@@ -2,13 +2,12 @@
 
 ## Making changes to icons
 
-1. Build the development container.
-2. Make changes to `src/icons.json`
+1. Make changes to `src/icons.json`
     - `iconDefinitions` link an icon definition to an icon location
     - `fileExtensions` link an ending extension to an icon definition
     - `fileNames` link a whole file name to an icon definition
-3. Testing icons can be done by hitting "Run" -> "Run without debugging".  When asked, navigate and select the `test/` folder to be your workspace.  `test/` contains all the various supported extensions.  Depending on the icon change, you may need to reload the window (`ctrl-r`) for the change to appear.
-4. (For Ron only) Once you're happy with your changes and everything is looking good, you're ready to publish!
+2. Testing icons can be done by hitting "Run" -> "Run without debugging".  When asked, navigate and select the `test/` folder to be your workspace.  `test/` contains all the various supported extensions.  Depending on the icon change, you may need to reload the window (`ctrl-r`) for the change to appear.
+3. (For Ron only) Once you're happy with your changes and everything is looking good, you're ready to publish!
 
 ## Publishing (For Ron only)
 
