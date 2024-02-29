@@ -1,0 +1,8 @@
+
+{
+	"name": "vsce",
+	"build": {
+		"context": "..",
+		"dockerfile": "./Dockerfile"
+	}
+}
