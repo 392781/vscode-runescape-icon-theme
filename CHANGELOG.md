@@ -9,6 +9,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [0.14.0] - 2024-02-28
+
+Added icons for R development:
+- `.R`, `.r`
+- `.Rmd`, `.rmd`
+
+Added icons for spreadsheets:
+- `.xls`, `.xlsx`
+- `.csv`
+
+Added an icon for Quarto documents 
+- `.Qmd`, `.qmd`
+
+Added an icon for `.svelte`
+
 ## [0.13.0] - 2023-10-12
 
 Additional changes for icons ([@jcanabarro](https://github.com/jcanabarro)):
@@ -18,9 +33,9 @@ Additional changes for icons ([@jcanabarro](https://github.com/jcanabarro)):
 
 ## [0.12.1] - 2023-10-08
 
-* Added attribution for Terraform icon additions
-* Added development test files
-* Added `.webp` icon as part of standard set of image icons
+- Added attribution for Terraform icon additions
+- Added development test files
+- Added `.webp` icon as part of standard set of image icons
 
 ## [0.12.0] - 2023-10-08
 
