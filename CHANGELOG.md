@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [1.0.0] - 2024-03-10
+
+Added icons for `LICENSE` and `README` files types. Updated to a major release!
+
 ## [0.14.0] - 2024-02-28
 
 Added icons for R development:

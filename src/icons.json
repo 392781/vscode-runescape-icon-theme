@@ -111,6 +111,12 @@
     "_ignore": {
       "iconPath": "../icons/Anti-dragon_shield.webp"
     },
+    "_readme": {
+      "iconPath": "../icons/Quest_point_icon.webp"
+    },
+    "_license": {
+      "iconPath": "../icons/Character_Summary_icon.webp"
+    },
     "_js": {
       "iconPath": "../icons/Berserker_ring.webp"
     },
@@ -268,6 +274,12 @@
     "env.yml"             : "_environment",
     "requirements.txt"    : "_requirements",
     "pyproject.toml"      : "_pyproject",
+    "README"              : "_readme",
+    "README.md"           : "_readme",
+    "README.txt"          : "_readme",
+    "LICENSE"             : "_license",
+    "LICENSE.md"          : "_license",
+    "LICENSE.txt"         : "_license",
     ".dockerignore"       : "_dockerignore",
     ".htaccess"           : "_htaccess",
     ".vscodeignore"       : "_ignore",
