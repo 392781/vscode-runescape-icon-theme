@@ -287,6 +287,31 @@
     ".gitattributes"      : "_ignore",
     ".terraform.lock.hcl" : "_tf"
   },
-  "languageIds": {},
+  "languageIds": {
+    "c"               : "_c",
+    "cs"              : "_cs",
+    "cpp"             : "_cpp",
+    "css"             : "_css",
+    "dart"            : "_dart",
+    "dockerfile"      : "_docker",
+    "html"            : "_html",
+    "java"            : "_java",
+    "json"            : "_json",
+    "julia"           : "_jl",
+    "lua"             : "_lua",
+    "markdown"        : "_md",
+    "php"             : "_php",
+    "py"              : "_py",
+    "r"               : "_R",
+    "ruby"            : "_ruby",
+    "rust"            : "_rs",
+    "quarto"          : "_qmd",
+    "scss"            : "_scss",
+    "sql"             : "_sql",
+    "typescript"      : "_ts",
+    "typescriptreact" : "_tsx",
+    "xml"             : "_xml",
+    "yaml"            : "_yml"
+  },
   "hidesExplorerArrows": "true"
 }
