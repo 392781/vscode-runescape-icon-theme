@@ -194,6 +194,15 @@
     },
     "_tf": {
       "iconPath": "../icons/Geomancy.webp"
+    },
+    "_vs": {
+      "iconPath": "../icons/Bass.webp"
+    },
+    "_fs": {
+      "iconPath": "../icons/Rainbow_fish.webp"
+    },
+    "_comp": {
+      "iconPath": "../icons/Raw_karambwan.webp"
     }
   },
   "file"            : "_file",
@@ -259,7 +268,10 @@
     "svelte"  : "_svelte",
     "sh"      : "_sh",
     "tf"      : "_tf",
-    "tfstate" : "_tf"
+    "tfstate" : "_tf",
+    "vs"      : "_vs",
+    "fs"      : "_fs",
+    "comp"    : "_comp"
   },
   "fileNames": {
     "Dockerfile"          : "_docker",
