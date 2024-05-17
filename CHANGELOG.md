@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [1.2.0] - 2024-05-16
+
+Added OpenGL shader icons: `.comp`, `.fs`, `.vs`
+
 ## [1.1.0] - 2024-04-26
 
 Added initial set of `languageIds` to fix [#7](https://github.com/392781/vscode-runescape-icon-theme/issues/7).
