@@ -201,8 +201,11 @@
     "_fs": {
       "iconPath": "../icons/Rainbow_fish.webp"
     },
-    "_comp": {
+    "_comp_light": {
       "iconPath": "../icons/Raw_karambwan.webp"
+    },
+    "_comp_dark": {
+      "iconPath": "../icons/Cooked_karambwan.webp"
     }
   },
   "file"            : "_file",
@@ -271,7 +274,7 @@
     "tfstate" : "_tf",
     "vs"      : "_vs",
     "fs"      : "_fs",
-    "comp"    : "_comp"
+    "comp"    : "_comp_dark"
   },
   "fileNames": {
     "Dockerfile"          : "_docker",
@@ -324,6 +327,11 @@
     "typescriptreact" : "_tsx",
     "xml"             : "_xml",
     "yaml"            : "_yml"
+  },
+  "light": {
+    "fileExtensions": {
+      "comp" : "_comp_light"
+    }
   },
   "hidesExplorerArrows": "true"
 }
