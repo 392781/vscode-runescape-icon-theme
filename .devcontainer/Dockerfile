@@ -1,5 +1,5 @@
-FROM node:current-alpine AS node
-FROM alpine:latest
+FROM docker.io/library/node:current-alpine AS node
+FROM docker.io/library/alpine:latest
 
 COPY --from=node /usr/lib /usr/lib
 COPY --from=node /usr/local/lib /usr/local/lib
