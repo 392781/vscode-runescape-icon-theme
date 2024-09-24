@@ -5,6 +5,12 @@
   <img src="assets/title.png" alt="Old School RuneScape Icon Theme for Visual Studio Code" width="500">
 </p>
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/392781.runescape-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/392781.runescape-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/392781.runescape-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
+</p>
+
 (Old School) RuneScape themed file icon pack for VSCode!  The theme supports a dozen language and various toolset files/extensions:
 
 **Web development:** .html <img src="icons/Magic_logs.webp" style="height: 0.8em">, .css <img src="icons/Wizards_mind_bomb.webp" style="height: 0.8em"> (and its variants) .js <img src="icons/Berserker_ring.webp" style="height: 0.8em">, .ts <img src="icons/Warrior_ring.webp" style="height: 0.8em">, .php <img src="icons/High_Level_Alchemy.webp" style="height: 0.8em">, .rb <img src="icons/Ruby.webp" style="height: 0.8em">
