@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/392781.runescape-icon-theme?style=for-the-badge&colorA=4D4A34&colorB=C9BD93&label=Version" alt="Version"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/392781.runescape-icon-theme?style=for-the-badge&for-the-badge&colorA=4D4A34&colorB=C9BD93&label=Installs" alt="Installs"></a>&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/392781.runescape-icon-theme?style=for-the-badge&colorA=4D4A34&colorB=C9BD93&label=Downloads" alt="Downloads"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/392781.runescape-icon-theme?style=plastic&colorA=4D4A34&colorB=C9BD93&label=Version" alt="Version"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/392781.runescape-icon-theme?style=plastic&for-the-badge&colorA=4D4A34&colorB=C9BD93&label=Installs" alt="Installs"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=392781.runescape-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/392781.runescape-icon-theme?style=plastic&colorA=4D4A34&colorB=C9BD93&label=Downloads" alt="Downloads"></a>
 </p>
 
 (Old School) RuneScape themed file icon pack for VSCode!  The theme supports a dozen language and various toolset files/extensions:
