@@ -159,6 +159,9 @@
     "_tex": {
       "iconPath": "../icons/Phoenix_quill_pen.webp"
     },
+    "_bib": {
+      "iconPath": "../icons/White_apron.webp"
+    },
     "_ruby": {
       "iconPath": "../icons/Ruby.webp"
     },
@@ -276,6 +279,7 @@
     "qmd"     : "_qmd",
     "Qmd"     : "_qmd",
     "tex"     : "_tex",
+    "bib"     : "_bib",
     "rb"      : "_ruby",
     "php"     : "_php",
     "json"    : "_json",
