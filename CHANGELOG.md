@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Continuously adding new icons! ✨ [Request an icon today here! 🎉](https://github.com/392781/vscode-runescape-icon-theme/issues/new/choose) 
 
+## [1.3.1] - 2024-11-18
+
+Added LaTeX `.bib` icon.
+
 ## [1.3.0] - 2024-11-18
 
 Added LaTeX `.tex` and `.devcontainer` support.
