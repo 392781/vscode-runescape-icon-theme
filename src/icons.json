@@ -9,6 +9,12 @@
     "_folder_open": {
       "iconPath": "../icons/Inventory_open.webp"
     },
+    "_devcontainer": {
+      "iconPath": "../icons/Extradimensional_bag.webp"
+    },
+    "_devcontainer_open": {
+      "iconPath": "../icons/Extradimensional_bag_(open).webp"
+    },
     "_text": {
       "iconPath": "../icons/Ancient_page.webp"
     },
@@ -150,6 +156,9 @@
     "_qmd": {
       "iconPath": "../icons/Teleport_to_Target.webp"
     },
+    "_tex": {
+      "iconPath": "../icons/Phoenix_quill_pen.webp"
+    },
     "_ruby": {
       "iconPath": "../icons/Ruby.webp"
     },
@@ -211,6 +220,12 @@
   "file"            : "_file",
   "folder"          : "_folder",
   "folderExpanded"  : "_folder_open",
+  "folderNames"     : {
+    ".devcontainer": "_devcontainer"
+  },
+  "folderNamesExpanded": {
+    ".devcontainer": "_devcontainer_open"
+  },
   "fileExtensions": {
     "asm"     : "_asm",
     "cpp"     : "_cpp",
@@ -260,6 +275,7 @@
     "Rmd"     : "_rmd",
     "qmd"     : "_qmd",
     "Qmd"     : "_qmd",
+    "tex"     : "_tex",
     "rb"      : "_ruby",
     "php"     : "_php",
     "json"    : "_json",
